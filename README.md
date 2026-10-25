@@ -23,10 +23,10 @@ Live demo: [https://cinelog-2026.ai.studio]
 
 ![Screenshot 2](public/images/IMG_3398.png)
 
-![Screenshot 3](public/images/IMG_3400.png)
+![Screenshot 3](public/images/IMG_3407.png)
 
-![Screenshot 4](public/images/IMG_3401.png)
+![Screenshot 4](public/images/IMG_3400.png)
 
-![Screenshot 5](public/images/IMG_3402.png)
+![Screenshot 5](public/images/IMG_3401.png)
 
-![Screenshot 6](public/images/IMG_3407.png)
+![Screenshot 6](public/images/IMG_3402.png)

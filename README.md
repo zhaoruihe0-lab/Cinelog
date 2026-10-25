@@ -17,3 +17,16 @@ Key features
 Tech stack: React, TypeScript, Vite, Tailwind CSS, and IndexedDB.
 
 Live demo: [https://cinelog-2026.ai.studio]
+## Screenshots
+
+![Screenshot 1](public/images/IMG_3397.png)
+
+![Screenshot 2](public/images/IMG_3398.png)
+
+![Screenshot 3](public/images/IMG_3400.png)
+
+![Screenshot 4](public/images/IMG_3401.png)
+
+![Screenshot 5](public/images/IMG_3402.png)
+
+![Screenshot 6](public/images/IMG_3407.png)

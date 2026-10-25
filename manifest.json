@@ -1,0 +1,16 @@
+{
+  "name": "CineLog Archive",
+  "short_name": "CineLog",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzA1MDUwNSIvPjxwYXRoIGQ9Ik0xNjAgMTIwSDM1MlYzOTJIMTYweiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzMiIgcng9IjIwIi8+PGxpbmUgeDE9IjE2MCIgeTE9IjIxMCIgeDI9IjM1MiIgeTI9IjIxMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIzMiIvPjxsaW5lIHgxPSIxNjAiIHkxPSIzMDAiIHgyPSIzNTIiIHkyPSIzMDAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMzIiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
